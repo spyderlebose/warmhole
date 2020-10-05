@@ -1,2 +1,10 @@
 # warmhole
 D-Factor
+
+A wormhole (or Einstein–Rosen bridge or Einstein–Rosen wormhole) is a speculative structure linking disparate points in spacetime, and is based on a special solution of the Einstein field equations.
+
+A wormhole can be visualized as a tunnel with two ends at separate points in spacetime (i.e., different locations, or different points in time, or both).
+
+Wormholes are consistent with the general theory of relativity by Einstein, but whether wormholes actually exist remains to be seen. Many scientists postulate that wormholes are merely projections of a fourth spatial dimension, analogous to how a two-dimensional (2D) being could experience only part of a three-dimensional (3D) object.[1]
+
+A wormhole could connect extremely long distances such as a billion light years or more, short distances such as a few meters, different universes, or different points in time.
